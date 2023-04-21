@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    background-color: cadetblue;
+    padding: 15px 0;
+}
+nav ul{
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    margin: auto;
+}
+nav li a{
+    text-decoration: none;
+}
